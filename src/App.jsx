@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useDebounce } from "use-debounce";
 import "./App.css";
 import Pagination from "./components/Pagination.jsx";
-import Search from "./components/search";
+import Search from "./components/Search";
 import Spinner from "./components/Spinner";
 import MovieCard from "./components/MovieCard";
 
